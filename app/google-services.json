@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "261825003714",
+    "firebase_url": "https://fir-testproject-a6fb1-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fir-testproject-a6fb1",
+    "storage_bucket": "fir-testproject-a6fb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261825003714:android:26df63c073d97a1f7b7b5b",
+        "android_client_info": {
+          "package_name": "obause.example.snapchatklon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261825003714-veq2kjjt6ra91v7miaa808dol0e3kgvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5uCKXY_xmac4rOSSSPLGWBG3ROnXvFOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261825003714-veq2kjjt6ra91v7miaa808dol0e3kgvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
